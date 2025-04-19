@@ -1,4 +1,5 @@
 # 💵 About Project
+![alt text](image.png)
 이 프로젝트는 AI관련 직무의 미래 연봉을 예측하는 모델을 제작합니다.
 
 
